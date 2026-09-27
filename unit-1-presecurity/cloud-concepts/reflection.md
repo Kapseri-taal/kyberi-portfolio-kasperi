@@ -1,0 +1,7 @@
+1. pilvipalvelu on datakeskus, johon voit lähettää kaiken datasi. yleensä isot kihot laskuttavat jonkinlaista kuukausimaksua pilvipalvelujen käytöstä.
+2. kehitys kehittyy koko ajan, joten koko ajan tarvitaan parempia ja parempia teknologioita.
+3. eri malleilla on eri vastaukset esimerkiksi siihen, missä datasi sijaitsee ja kuinka paljon sainä voit vaikuttaaaa siihen
+4. shared responsibilty model eli jaetun vastuun malli on perusmalli pilven turvallisuudessa. tämä perustuu siihen, että palveluntarjoaja vastaa omasta palvelustaan ja asiakas vastaa siitä, mitä hän pitää pilvessä.
+5. esimerkiksi potilasdataa ja asiakasdataa ei saa säilyttää suomen rajojen ulkopuiolella gdpr.n mukaan. toinen syy voi olla esimerkiksi riippuvuus yhdestä palveluntarjoajasta. jos firma siirtää kaikki datansa esim. AWS:lle, olisivat he suuressa kusessa jos AWS datakeskukset päätettäisiin vaikkapa pommittaa.
+6. pilvipalvelut kulkevbat aina mukanasi, olet sitten varia helpdeskissä, tai jonkun ison firman iso kiho. aloittelijatason työssä voit kohdata pilvipalvelun vaikkappa, jos asiakkaasi ei pääse M365- palveluihin käsiksi mfa:n takia, tai jos asiakkaan google-käyttäjä ei pääse kirjautumaan google kuviin.
+7. ite en kyl haluis luottaa pilvipalveluihin hirveesti. olen sitä mieltä, että kaikkien data pitäisi olla omalla laitoksella, niin se ei katoaisi. Jotkut tiedot voisi kuitenkin olla hyvä pitää pilcvesssä.
